@@ -1,0 +1,15 @@
+# FastAPI web server
+fastapi
+uvicorn[standard]
+
+# Environment variables
+python-dotenv
+
+# Google Cloud Services
+google-cloud-aiplatform
+google-cloud-storage
+
+# PDF Processing
+PyMuPDF
+requests>=2.28.0
+python-multipart
